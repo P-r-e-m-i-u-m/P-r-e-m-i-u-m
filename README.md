@@ -25,3 +25,12 @@
 [![](https://visitcount.itsvg.in/api?id=P-r-e-m-i-u-m&icon=4&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/P-r-e-m-i-u-m/P-r-e-m-i-u-m/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.gifer.com/4Kj3.gif"  />
+</div>
+
+###
