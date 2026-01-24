@@ -111,7 +111,7 @@
 </p>
 
 body {
-  background-image: url('https://your-anime-image-link.com');
+  background-image: url('https://pin.it/5TRFq976m');
   background-size: cover;
   background-position: center;
 }
