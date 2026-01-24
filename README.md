@@ -35,7 +35,7 @@
     <td>
       <img
         src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"
-        width="498"
+        width="300"
       />
     </td>
   </tr>
