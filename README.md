@@ -114,26 +114,36 @@
   </a>
 </p>
 
-<h2 align="center">📜 Certifications</h2>
-
 <div align="center">
 
-```text
-📜 Certifications
-├── 🤖 Generative AI
-│   ├── ChatGPT Advanced
-│   ├── Intro to Generative AI
-│   ├── GenAI Data Analytics Simulation
-│   └── Gemini Certifications
-├── 📊 Data Analytics
-│   ├── SQL
-│   └── Excel
-└── 💻 Programming
-    ├── Python
-    ├── JavaScript
-    ├── TypeScript
-    ├── Java
-    └── English
+# 🏅certification
+
+---
+
+# 🎓 AI & Generative AI Courses
+- 🤖 ChatGPT Advanced Course  
+- 🌌 Introduction to Generative AI  
+- 🏗️ Introduction to Generative AI Studio  
+- 📊 GenAI Powered Data Analytics Job Simulation  
+- 🎓 Gemini Certification for University Students  
+- 👩‍🏫 Gemini Certified Educator  
+
+---
+
+# 📊 Data Analytics
+- 🧪 Data Analytics Job Simulation  
+- 🗄️ SQL Certificate  
+- 📑 Excel Certificate  
+
+---
+
+# 💻 Programming
+- 🐍 Python (Basic Programming)  
+- ⚡ JavaScript Certificate  
+- 🔷 TypeScript Certificate  
+- ☕ Java Certificate  
+
+</div>
 
 
 
