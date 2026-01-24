@@ -30,6 +30,13 @@
 <img src="https://raw.githubusercontent.com/P-r-e-m-i-u-m/P-r-e-m-i-u-m/output/snake.svg" alt="Snake animation" />
 
 ###
+<p align="right">
+  <img
+    src="https://i.giphy.com/1dBOHESEOYQa4.webp"
+    width="300"
+  />
+</p>
+
 <p align="center">
   <img
     src="https://i.giphy.com/OpYV9CBVZOb1S.webp"
