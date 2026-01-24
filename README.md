@@ -1,4 +1,4 @@
-<video class="cdnvideo-player" poster="https://play.vsthemes.org/frame/66/70166.webp" preload="metadata" controls="" autoplay="" playsinline="" webkit-playsinline="" loop=""><source src="https://play.vsthemes.org/fhd/66/70166.webm" type="video/webm"><source src="https://play.vsthemes.org/fhd/66/70166.mp4" type="video/mp4"></video>
+
 
 # 💫 About Me:
 🔭 I’m currently working on<br>Building scalable RAG (Retrieval-Augmented Generation) pipelines and an AI-powered Resume Optimizer using GPT-4 & Streamlit.<br><br>👯 I’m looking to collaborate on<br>Open-source Generative AI projects, specifically those involving LangChain agents, Vector Databases (Pinecone/Chroma), or automation tools.<br><br>🤝 I’m looking for help with<br>Optimizing LLM inference latency for production environments and deploying containerized AI apps on AWS/Azure.<br><br>🌱 I’m currently learning<br>Advanced Multi-Agent Systems (AutoGen), fine-tuning Open Source LLMs (Llama 3, Mistral), and Cloud Architecture patterns.<br><br>💬 Ask me about<br>Prompt Engineering, building ETL pipelines in Python, automating boring tasks with code, and how to build AI apps without a degree!<br><br>⚡ Fun fact<br>I treated "reading documentation" as my university degree. I built and deployed 4 AI applications before taking a single formal class!
@@ -85,4 +85,6 @@
 <div align="center">
   <img height="200" src="https://i.gifer.com/4Kj3.gif"  />
 </div>
+
+<video class="cdnvideo-player" poster="https://play.vsthemes.org/frame/66/70166.webp" preload="metadata" controls="" autoplay="" playsinline="" webkit-playsinline="" loop=""><source src="https://play.vsthemes.org/fhd/66/70166.webm" type="video/webm"><source src="https://play.vsthemes.org/fhd/66/70166.mp4" type="video/mp4"></video>
 
