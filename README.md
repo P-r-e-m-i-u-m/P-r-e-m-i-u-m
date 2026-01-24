@@ -110,10 +110,4 @@
     width="498">
 </p>
 
-<div class="media-grid">
-  <figure>
-    <img src="..." width="300" alt="...">
-    <figcaption>Binary stream — digital consciousness</figcaption>
-  </figure>
-</div>
 
