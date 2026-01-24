@@ -1,8 +1,7 @@
-<p align="center">
-  <a href="https://www.pinterest.com/pin/180777372538832554/">
-    <img src="https://i.pinimg.com/originals/5e/1d/1e/5e1d1e2c7d4f9d6b5f9b1e3f0d6a7b8c.jpg" width="600" />
-  </a>
-</p>
+<video class="jI_JN7" playsinline poster="https://i.pinimg.com/736x/d0/46/6c/d0466c1aab159c263867e43f6cde34ac.jpg" preload="auto" controls style="object-fit: contain;">
+    <source src="/videos/background-video.mp4" type="video/mp4">
+    <track kind="captions">
+</video>
 
 
 # 💫 About Me:
