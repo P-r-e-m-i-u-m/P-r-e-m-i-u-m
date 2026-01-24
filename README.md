@@ -90,18 +90,8 @@
 </p>
 
 <p align="right">
-  <video 
-    class="cdnvideo-player" 
-    poster="https://play.vsthemes.org/frame/66/70166.webp" 
-    preload="metadata" 
-    controls 
-    autoplay 
-    playsinline 
-    webkit-playsinline 
-    loop 
-    width="300">
-    <source src="https://play.vsthemes.org/fhd/66/70166.webm" type="video/webm">
-    <source src="https://play.vsthemes.org/fhd/66/70166.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img
+    src="https://i.giphy.com/1dBOHESEOYQa4.webp"
+    width="300"
+  />
 </p>
