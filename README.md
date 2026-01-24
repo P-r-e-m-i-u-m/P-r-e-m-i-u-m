@@ -75,13 +75,15 @@
   <img src="https://github-profile-trophy.vercel.app/?username=P-r-e-m-i-u-m&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="Trophies OneDark">
 </p>
 
-### ✍️ Random Dev Quote
-![](> Learning never compiles with errors.
-> Code with purpose.
-> Progress over perfection.
-> Stay curious.
-> Make it work, then make it better.
-)
+<h3 align="center">✍️ Random Dev Quote</h3>
+
+<p align="center">
+  💡 “Learning never compiles with errors.” <br>
+  🎯 “Code with purpose.” <br>
+  🚀 “Progress over perfection.” <br>
+  🔍 “Stay curious.” <br>
+  🔧 “Make it work, then make it better.”
+</p>
 
 
 ### 🔝 Top Contributed Repo
