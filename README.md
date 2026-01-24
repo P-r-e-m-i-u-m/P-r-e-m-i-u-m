@@ -12,7 +12,12 @@
 ![](https://github-profile-trophy.vercel.app/?username=P-r-e-m-i-u-m&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)hello
+![](> Learning never compiles with errors.
+> Code with purpose.
+> Progress over perfection.
+> Stay curious.
+> Make it work, then make it better.
+)
 
 
 ### 🔝 Top Contributed Repo
