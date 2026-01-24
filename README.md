@@ -89,5 +89,19 @@
   <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/coding.gif" width="498">
 </p>
 
-<video class="cdnvideo-player" poster="https://play.vsthemes.org/frame/66/70166.webp" preload="metadata" controls="" autoplay="" playsinline="" webkit-playsinline="" loop=""><source src="https://play.vsthemes.org/fhd/66/70166.webm" type="video/webm"><source src="https://play.vsthemes.org/fhd/66/70166.mp4" type="video/mp4"></video>
-
+<p align="right">
+  <video 
+    class="cdnvideo-player" 
+    poster="https://play.vsthemes.org/frame/66/70166.webp" 
+    preload="metadata" 
+    controls 
+    autoplay 
+    playsinline 
+    webkit-playsinline 
+    loop 
+    width="300">
+    <source src="https://play.vsthemes.org/fhd/66/70166.webm" type="video/webm">
+    <source src="https://play.vsthemes.org/fhd/66/70166.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
