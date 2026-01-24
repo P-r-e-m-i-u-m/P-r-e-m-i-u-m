@@ -34,5 +34,6 @@
 <div align="center">
   <img height="200" src="https://i.gifer.com/4Kj3.gif"  />
 </div>
-https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWI5NHJkN2F4OGQ3dm02azM2MjlhdzB5Z2o2OXJjdHlraWMxa3MwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/byTVPe9Cz5RM4/giphy.gif
+<img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/7f1ecdbe-dce9-436b-b6dc-326ec2e00ee9" />
+
 ###
