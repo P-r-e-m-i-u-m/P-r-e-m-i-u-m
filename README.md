@@ -34,5 +34,5 @@
 <div align="center">
   <img height="200" src="https://i.gifer.com/4Kj3.gif"  />
 </div>
-                                                          <img class="media_gif__MBeQG" style="aspect-ratio:500/281" src="https://i.giphy.com/byTVPe9Cz5RM4.webp" alt="" width="480">  
-                                                          <img class="media_gif__MBeQG" style="aspect-ratio:500/282" src="https://i.giphy.com/OpYV9CBVZOb1S.webp" alt="" width="480">
+                                                          <img class="media_gif__MBeQG" style="aspect-ratio:300/281" src="https://i.giphy.com/byTVPe9Cz5RM4.webp" alt="" width="300">  
+                                                          <img class="media_gif__MBeQG" style="aspect-ratio:300/282" src="https://i.giphy.com/OpYV9CBVZOb1S.webp" alt="" width="300">
