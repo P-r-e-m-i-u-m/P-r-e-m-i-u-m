@@ -100,14 +100,19 @@
        alt="Top Contributed Repos" />
 </p>
 
-<!-- Section Description -->
+<!-- Description -->
 <p align="center">
   🌟 Highlighting my most impactful open-source contributions <br>
   🚀 From Generative AI pipelines to automation tools <br>
   🎨 Blending code, creativity, and community
 </p>
----
-[![](https://visitcount.itsvg.in/api?id=P-r-e-m-i-u-m&icon=4&color=0)](https://visitcount.itsvg.in)
+
+<!-- Visit Counter (Fixed) -->
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=P-r-e-m-i-u-m&icon=4&color=0" alt="Visitor Count">
+  </a>
+</p>
 
 ## 📜 Certifications
 
