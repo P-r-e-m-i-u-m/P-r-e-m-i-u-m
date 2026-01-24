@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://www.pinterest.com/pin/180777372538832554/">
-    <img src="https://via.placeholder.com/600x438.png?text=Pinterest+Pin" width="600" />
+    <img src="https://i.pinimg.com/originals/5e/1d/1e/5e1d1e2c7d4f9d6b5f9b1e3f0d6a7b8c.jpg" width="600" />
   </a>
 </p>
+
 
 # 💫 About Me:
 🔭 I’m currently working on<br>Building scalable RAG (Retrieval-Augmented Generation) pipelines and an AI-powered Resume Optimizer using GPT-4 & Streamlit.<br><br>👯 I’m looking to collaborate on<br>Open-source Generative AI projects, specifically those involving LangChain agents, Vector Databases (Pinecone/Chroma), or automation tools.<br><br>🤝 I’m looking for help with<br>Optimizing LLM inference latency for production environments and deploying containerized AI apps on AWS/Azure.<br><br>🌱 I’m currently learning<br>Advanced Multi-Agent Systems (AutoGen), fine-tuning Open Source LLMs (Llama 3, Mistral), and Cloud Architecture patterns.<br><br>💬 Ask me about<br>Prompt Engineering, building ETL pipelines in Python, automating boring tasks with code, and how to build AI apps without a degree!<br><br>⚡ Fun fact<br>I treated "reading documentation" as my university degree. I built and deployed 4 AI applications before taking a single formal class!
