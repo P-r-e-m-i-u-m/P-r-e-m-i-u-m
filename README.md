@@ -116,34 +116,24 @@
 
 <h2 align="center">📜 Certifications</h2>
 
-<!-- Generative AI -->
-<h3 align="center">🤖 Generative AI</h3>
-<p align="center">
-  🧠 ChatGPT Advanced Course <br>
-  🧠 Introduction to Generative AI <br>
-  🧠 Introduction to Generative AI Studio <br>
-  📊 GenAI Powered Data Analytics Job Simulation <br>
-  🎓 Gemini Certification for University Students <br>
-  🧑‍🏫 Gemini Certified Educator
-</p>
+<div align="center">
 
-<!-- Data Analytics -->
-<h3 align="center">📊 Data Analytics</h3>
-<p align="center">
-  📈 Data Analytics Job Simulation <br>
-  🗃️ SQL Certificate <br>
-  📊 Excel Certificate
-</p>
-
-<!-- Programming -->
-<h3 align="center">💻 Programming</h3>
-<p align="center">
-  🐍 Python (Basic Programming) <br>
-  ⚡ JavaScript Certificate <br>
-  🔷 TypeScript Certificate <br>
-  ☕ Java Certificate <br>
-  🗣️ English Certificate
-</p>
+```text
+📜 Certifications
+├── 🤖 Generative AI
+│   ├── ChatGPT Advanced
+│   ├── Intro to Generative AI
+│   ├── GenAI Data Analytics Simulation
+│   └── Gemini Certifications
+├── 📊 Data Analytics
+│   ├── SQL
+│   └── Excel
+└── 💻 Programming
+    ├── Python
+    ├── JavaScript
+    ├── TypeScript
+    ├── Java
+    └── English
 
 
 
