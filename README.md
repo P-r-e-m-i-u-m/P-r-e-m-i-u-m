@@ -55,6 +55,16 @@
 <img src="https://raw.githubusercontent.com/P-r-e-m-i-u-m/P-r-e-m-i-u-m/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<p align="middle">
+  <img 
+    class="media_gif__MBeQG" 
+    style="aspect-ratio:250/281" 
+    src="https://i.giphy.com/QpVUMRUJGokfqXyfa1.webp" 
+    alt="GIF preview" 
+    width="300">
+</p>
+
 <table align="left">
   <tr>
     <td>
@@ -89,11 +99,4 @@
   <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/coding.gif" width="498">
 </p>
 
-<p align="right">
-  <img 
-    class="media_gif__MBeQG" 
-    style="aspect-ratio:300/281" 
-    src="https://i.giphy.com/QpVUMRUJGokfqXyfa1.webp" 
-    alt="GIF preview" 
-    width="300">
-</p>
+
