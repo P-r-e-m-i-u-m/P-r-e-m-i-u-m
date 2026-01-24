@@ -30,7 +30,7 @@
 <img src="https://raw.githubusercontent.com/P-r-e-m-i-u-m/P-r-e-m-i-u-m/output/snake.svg" alt="Snake animation" />
 
 ###
-<table align="right">
+<table align="left">
   <tr>
     <td>
       <img
