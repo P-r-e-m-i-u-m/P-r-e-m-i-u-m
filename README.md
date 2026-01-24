@@ -46,6 +46,8 @@
 - JavaScript Certificate  
 - TypeScript Certificate  
 - Java Certificate  
+- [English Certificate]
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
