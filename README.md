@@ -110,4 +110,8 @@
     width="498">
 </p>
 
-
+body {
+  background-image: url('https://your-anime-image-link.com');
+  background-size: cover;
+  background-position: center;
+}
