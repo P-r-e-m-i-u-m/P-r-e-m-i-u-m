@@ -26,6 +26,28 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=P-r-e-m-i-u-m&icon=4&color=0)](https://visitcount.itsvg.in)
 
+## 📜 Certifications
+
+### 🤖 Generative AI
+- ChatGPT Advanced Course  
+- Introduction to Generative AI  
+- Introduction to Generative AI Studio  
+- GenAI Powered Data Analytics Job Simulation  
+- Gemini Certification for University Students  
+- Gemini Certified Educator  
+
+### 📊 Data Analytics
+- Data Analytics Job Simulation  
+- SQL Certificate  
+- Excel Certificate  
+
+### 💻 Programming
+- Python (Basic Programming)  
+- JavaScript Certificate  
+- TypeScript Certificate  
+- Java Certificate  
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <img src="https://raw.githubusercontent.com/P-r-e-m-i-u-m/P-r-e-m-i-u-m/output/snake.svg" alt="Snake animation" />
 
