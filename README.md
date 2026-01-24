@@ -56,7 +56,8 @@
 
 ###
 
-<p align="middle">
+<!-- Center-aligned GIF -->
+<p align="center">
   <img 
     class="media_gif__MBeQG" 
     style="aspect-ratio:250/281" 
@@ -65,38 +66,47 @@
     width="300">
 </p>
 
+<!-- Left-aligned GIF inside table -->
 <table align="left">
   <tr>
     <td>
-      <img
-        src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"
-        width="300"
-      />
+      <img 
+        src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" 
+        alt="Coding GIF" 
+        width="300">
     </td>
   </tr>
 </table>
 
-
+<!-- Right-aligned GIF -->
 <p align="right">
-  <img
-    src="https://i.giphy.com/1dBOHESEOYQa4.webp"
-    width="300"
-  />
+  <img 
+    src="https://i.giphy.com/1dBOHESEOYQa4.webp" 
+    alt="Right GIF" 
+    width="300">
 </p>
 
+<!-- Center-aligned GIF -->
 <p align="center">
-  <img
-    src="https://i.giphy.com/OpYV9CBVZOb1S.webp"
-    width="300"
-  />
+  <img 
+    src="https://i.giphy.com/OpYV9CBVZOb1S.webp" 
+    alt="Center GIF" 
+    width="300">
 </p>
 
+<!-- Center-aligned GIF with height control -->
 <div align="center">
-  <img height="200" src="https://i.gifer.com/4Kj3.gif"  />
+  <img 
+    src="https://i.gifer.com/4Kj3.gif" 
+    alt="Small GIF" 
+    height="200">
 </div>
 
+<!-- Center-aligned GitHub-hosted GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/coding.gif" width="498">
+  <img 
+    src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/coding.gif" 
+    alt="GitHub GIF" 
+    width="498">
 </p>
-
 
