@@ -77,6 +77,7 @@
 
 <h3 align="center">✍️ Random Dev Quote</h3>
 
+
 <p align="center">
   💡 “Learning never compiles with errors.” <br>
   🎯 “Code with purpose.” <br>
