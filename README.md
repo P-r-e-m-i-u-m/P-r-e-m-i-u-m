@@ -67,8 +67,13 @@
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=P-r-e-m-i-u-m&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=P-r-e-m-i-u-m&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophies Radical">
+  <img src="https://github-profile-trophy.vercel.app/?username=P-r-e-m-i-u-m&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="Trophies TokyoNight">
+  <img src="https://github-profile-trophy.vercel.app/?username=P-r-e-m-i-u-m&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="Trophies OneDark">
+</p>
 
 ### ✍️ Random Dev Quote
 ![](> Learning never compiles with errors.
