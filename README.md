@@ -87,9 +87,25 @@
 </p>
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=P-r-e-m-i-u-m&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h2 align="center">🔝 Top Contributed Repos</h2>
 
+<!-- Anime Banner -->
+<p align="center">
+  <img src="https://i.giphy.com/OpYV9CBVZOb1S.webp" width="600" alt="Anime Banner">
+</p>
+
+<!-- GitHub Contributor Stats -->
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=P-r-e-m-i-u-m&limit=5&theme=dark&combine_all_yearly_contributions=true" 
+       alt="Top Contributed Repos" />
+</p>
+
+<!-- Section Description -->
+<p align="center">
+  🌟 Highlighting my most impactful open-source contributions <br>
+  🚀 From Generative AI pipelines to automation tools <br>
+  🎨 Blending code, creativity, and community
+</p>
 ---
 [![](https://visitcount.itsvg.in/api?id=P-r-e-m-i-u-m&icon=4&color=0)](https://visitcount.itsvg.in)
 
