@@ -111,7 +111,7 @@
 </p>
 
 body {
-  background-image: url('https://pin.it/5TRFq976m');
+  background-image: url('<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://i.pinimg.com/736x/20/0c/9b/200c9beea6400fc2c251cd4732228ee8.jpg" width="640" height="377">');
   background-size: cover;
   background-position: center;
 }
