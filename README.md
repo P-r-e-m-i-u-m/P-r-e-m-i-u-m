@@ -1,7 +1,6 @@
-<video class="jI_JN7" playsinline poster="https://i.pinimg.com/736x/d0/46/6c/d0466c1aab159c263867e43f6cde34ac.jpg" preload="auto" controls style="object-fit: contain;">
-    <source src="/videos/background-video.mp4" type="video/mp4">
-    <track kind="captions">
-</video>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/coding.gif" width="498">
+</p>
 
 
 # 💫 About Me:
