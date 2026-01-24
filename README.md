@@ -90,8 +90,10 @@
 </p>
 
 <p align="right">
-  <img
-    src="https://i.giphy.com/1dBOHESEOYQa4.webp"
-    width="300"
-  />
+  <img 
+    class="media_gif__MBeQG" 
+    style="aspect-ratio:300/281" 
+    src="https://i.giphy.com/QpVUMRUJGokfqXyfa1.webp" 
+    alt="GIF preview" 
+    width="300">
 </p>
