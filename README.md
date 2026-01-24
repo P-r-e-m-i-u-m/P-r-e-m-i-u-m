@@ -34,6 +34,4 @@
 <div align="center">
   <img height="200" src="https://i.gifer.com/4Kj3.gif"  />
 </div>
-<img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/7f1ecdbe-dce9-436b-b6dc-326ec2e00ee9" />
-
 ###
