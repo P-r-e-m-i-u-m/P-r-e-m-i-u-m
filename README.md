@@ -104,47 +104,6 @@
   <img src="https://i.giphy.com/OpYV9CBVZOb1S.webp" width="600" alt="Anime Banner">
 </p>
 
-<section id="github-trophies" style="text-align:center; padding:20px; background:#1e1e2f; color:white;">
-  <h2 style="margin-bottom:20px;">🏆 GitHub Trophies</h2>
-  <div id="trophies-container" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;"></div>
-</section>
-
-<script>
-  const username = "YOUR_GITHUB_USERNAME"; // Replace with your GitHub username
-  const container = document.getElementById("trophies-container");
-
-  const trophies = [
-    { title: "Public Repos", key: "public_repos", color: "#FF5555" },
-    { title: "Followers", key: "followers", color: "#50FA7B" },
-    { title: "Following", key: "following", color: "#BD93F9" },
-    { title: "Gists", key: "public_gists", color: "#F1FA8C" }
-  ];
-
-  fetch(`https://api.github.com/users/${username}`)
-    .then(res => res.json())
-    .then(data => {
-      trophies.forEach(trophy => {
-        const div = document.createElement("div");
-        div.style.background = trophy.color;
-        div.style.color = "#1e1e2f";
-        div.style.padding = "15px";
-        div.style.borderRadius = "10px";
-        div.style.minWidth = "120px";
-        div.style.boxShadow = "0 4px 8px rgba(0,0,0,0.3)";
-        div.style.fontFamily = "monospace";
-        div.innerHTML = `<h3>${trophy.title}</h3><p>${data[trophy.key]}</p>`;
-        container.appendChild(div);
-      });
-    })
-    .catch(err => {
-      container.innerHTML = "<p style='color:red;'>Unable to fetch trophies. Please check your username.</p>";
-      console.error(err);
-    });
-</script>
-
-
-</p>
-
 <!-- Description -->
 <p align="center">
   🌟 Highlighting my most impactful open-source contributions <br>
