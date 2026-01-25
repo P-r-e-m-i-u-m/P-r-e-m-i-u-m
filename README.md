@@ -106,8 +106,18 @@
 
 <!-- GitHub Contributor Stats -->
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=P-r-e-m-i-u-m&limit=5&theme=dark&combine_all_yearly_contributions=true" 
-       alt="Top Contributed Repos" />
+<!-- Basic GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME" />
+
+<!-- Radical Theme -->
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical" />
+
+<!-- TokyoNight Theme -->
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+
+<!-- OneDark Theme -->
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark" />
+
 </p>
 
 <!-- Description -->
