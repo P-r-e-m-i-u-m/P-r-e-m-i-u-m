@@ -2,8 +2,10 @@
   <img
     src="https://github.com/sindresorhus/sindresorhus/blob/main/welcome-header.gif?raw=true"
     alt="Welcome Header"
+    width="300"
   />
 </p>
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/dcc5392a-986c-471e-a4b4-3dba5be9d33b" 
