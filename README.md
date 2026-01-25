@@ -1,3 +1,16 @@
+<table align="right">
+  <tr>
+    <td>
+      <img
+        src="https://raw.githubusercontent.com/YOURNAME/YOURREPO/main/assets/demo.gif"
+        width="220"
+        alt="Demo"
+      />
+    </td>
+  </tr>
+</table>
+
+
 <p align="center">
   <img
     src="https://github.com/sindresorhus/sindresorhus/blob/main/welcome-header.gif?raw=true"
