@@ -2,13 +2,14 @@
   <tr>
     <td>
       <img
-        src="https://i.pinimg.com/originals/b7/a5/9d/b7a59d1c0637760445287af4ecd05f3b.gif"
+        src="https://raw.githubusercontent.com/YOURNAME/YOURREPO/main/assets/demo-transparent.gif"
         width="100"
         alt="Demo GIF"
       />
     </td>
   </tr>
 </table>
+
 
 <p align="center">
   <img
