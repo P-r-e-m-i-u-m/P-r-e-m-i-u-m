@@ -1,15 +1,3 @@
-<table align="right">
-  <tr>
-    <td>
-      <img
-        src="https://raw.githubusercontent.com/YOURNAME/YOURREPO/main/assets/demo-transparent.gif"
-        width="100"
-        alt="Demo GIF"
-      />
-    </td>
-  </tr>
-</table>
-
 
 <p align="center">
   <img
