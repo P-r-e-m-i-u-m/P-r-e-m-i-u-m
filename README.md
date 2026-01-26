@@ -84,7 +84,7 @@
   <p>
     <a href="https://github.com/P-r-e-m-i-u-m/Hugging-Face-Transformers.git">Hugging Face Transformers</a><br>
     <a href="https://github.com/P-r-e-m-i-u-m/langchain.git">LangChain</a><br>
-    <a href="https://github.com/facebookresearch/llama">LLaMA (Meta AI)</a><br>
+    <a href="https://github.com/P-r-e-m-i-u-m/LLaMA-Meta-AI-.git">LLaMA (Meta AI)</a><br>
     <a href="https://github.com/ggerganov/llama.cpp">LLaMA.cpp</a><br>
     <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui">Stable Diffusion WebUI</a><br>
     <a href="https://github.com/Stability-AI/stablediffusion">Stable Diffusion (Official)</a><br>
