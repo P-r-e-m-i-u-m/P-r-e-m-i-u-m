@@ -77,13 +77,25 @@
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
 </p>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=P-r-e-m-i-u-m&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophies Radical">
-  <img src="https://github-profile-trophy.vercel.app/?username=P-r-e-m-i-u-m&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="Trophies TokyoNight">
-  <img src="https://github-profile-trophy.vercel.app/?username=P-r-e-m-i-u-m&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="Trophies OneDark">
-</p>
+  <h2>🔥 Top Generative AI Open-Source Repositories</h2>
+
+  <p>
+    <a href="https://github.com/huggingface/transformers">Hugging Face Transformers</a><br>
+    <a href="https://github.com/langchain-ai/langchain">LangChain</a><br>
+    <a href="https://github.com/facebookresearch/llama">LLaMA (Meta AI)</a><br>
+    <a href="https://github.com/ggerganov/llama.cpp">LLaMA.cpp</a><br>
+    <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui">Stable Diffusion WebUI</a><br>
+    <a href="https://github.com/Stability-AI/stablediffusion">Stable Diffusion (Official)</a><br>
+    <a href="https://github.com/Significant-Gravitas/AutoGPT">AutoGPT</a><br>
+    <a href="https://github.com/run-llama/llama_index">LlamaIndex</a><br>
+    <a href="https://github.com/huggingface/peft">PEFT</a><br>
+    <a href="https://github.com/huggingface/accelerate">Accelerate</a><br>
+    <a href="https://github.com/tensorchord/Awesome-LLMOps">Awesome-LLMOps</a>
+  </p>
+
+</div>
 
 <h3 align="center">✍️ Random Dev Quote</h3>
 
