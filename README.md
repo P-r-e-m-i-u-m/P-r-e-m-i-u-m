@@ -97,7 +97,7 @@
 
   <!-- Portfolio Link -->
   <p>
-    🌐 <a href="https://p-r-e-m-i-u-m.github.io/AmanGenAI/#contact" target="_blank"><b>Visit My Portfolio</b></a>
+  🌐 <a href="https://p-r-e-m-i-u-m.github.io/AmanGenAI/#contact" target="_blank"><b>Visit My Portfolio</b></a>
   </p>
 
 </div>
