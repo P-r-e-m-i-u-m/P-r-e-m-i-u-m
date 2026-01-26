@@ -82,7 +82,7 @@
   <h2>🔥 Top Generative AI Open-Source Repositories</h2>
 
   <p>
-    <a href="https://github.com/huggingface/transformers">Hugging Face Transformers</a><br>
+    <a href="https://github.com/P-r-e-m-i-u-m/Hugging-Face-Transformers.git">Hugging Face Transformers</a><br>
     <a href="https://github.com/langchain-ai/langchain">LangChain</a><br>
     <a href="https://github.com/facebookresearch/llama">LLaMA (Meta AI)</a><br>
     <a href="https://github.com/ggerganov/llama.cpp">LLaMA.cpp</a><br>
