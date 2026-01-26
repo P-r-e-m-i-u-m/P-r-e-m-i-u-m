@@ -81,43 +81,31 @@
 
   <h2>🔥 Top Generative AI Open-Source Repositories</h2>
 
-  <style>
-    .repo-card {
-      display: inline-block;
-      background: #f9f9ff;
-      border-radius: 12px;
-      padding: 12px 20px;
-      margin: 8px;
-      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-      font-family: Arial, sans-serif;
-      transition: transform 0.2s ease, box-shadow 0.2s ease;
-    }
-    .repo-card:hover {
-      transform: translateY(-4px);
-      box-shadow: 0 6px 10px rgba(0,0,0,0.15);
-    }
-    .repo-card a {
-      text-decoration: none;
-      color: #3366cc;
-      font-weight: bold;
-    }
-    .emoji {
-      font-size: 20px;
-      margin-right: 6px;
-    }
-  </style>
-
-  <div class="repo-card"><span class="emoji">🤖</span><a href="https://github.com/P-r-e-m-i-u-m/Hugging-Face-Transformers.git">Transformers</a></div>
-  <div class="repo-card"><span class="emoji">🔗</span><a href="https://github.com/P-r-e-m-i-u-m/langchain.git">LangChain</a></div>
-  <div class="repo-card"><span class="emoji">🦙</span><a href="https://github.com/P-r-e-m-i-u-m/LLaMA-Meta-AI-.git">LLaMA (Meta AI)</a></div>
-  <div class="repo-card"><span class="emoji">⚙️</span><a href="https://github.com/P-r-e-m-i-u-m/llama.cpp.git">LLaMA.cpp</a></div>
-  <div class="repo-card"><span class="emoji">🎨</span><a href="https://github.com/P-r-e-m-i-u-m/Stable-Diffusion-WebUI-AUTOMATIC1111-.git">SD WebUI</a></div>
-  <div class="repo-card"><span class="emoji">🖼️</span><a href="https://github.com/Stability-AI/stablediffusion">Stable Diffusion (Official)</a></div>
-  <div class="repo-card"><span class="emoji">🧠</span><a href="https://github.com/P-r-e-m-i-u-m/AutoGPT.git">AutoGPT</a></div>
-  <div class="repo-card"><span class="emoji">📚</span><a href="https://github.com/P-r-e-m-i-u-m/LlamaIndex-formerly-GPT-Index-.git">LlamaIndex</a></div>
-  <div class="repo-card"><span class="emoji">🧵</span><a href="https://github.com/P-r-e-m-i-u-m/PEFT-Parameter-Efficient-Fine-Tuning-.git">PEFT</a></div>
-  <div class="repo-card"><span class="emoji">🚀</span><a href="https://github.com/P-r-e-m-i-u-m/accelerate.git">Accelerate</a></div>
-  <div class="repo-card"><span class="emoji">📦</span><a href="https://github.com/P-r-e-m-i-u-m/Awesome-LLMOps.git">Awesome-LLMOps</a></div>
+  <table>
+    <tr>
+      <td>🤖 <a href="https://github.com/P-r-e-m-i-u-m/Hugging-Face-Transformers.git">Transformers</a></td>
+      <td>🔗 <a href="https://github.com/P-r-e-m-i-u-m/langchain.git">LangChain</a></td>
+    </tr>
+    <tr>
+      <td>🦙 <a href="https://github.com/P-r-e-m-i-u-m/LLaMA-Meta-AI-.git">LLaMA (Meta AI)</a></td>
+      <td>⚙️ <a href="https://github.com/P-r-e-m-i-u-m/llama.cpp.git">LLaMA.cpp</a></td>
+    </tr>
+    <tr>
+      <td>🎨 <a href="https://github.com/P-r-e-m-i-u-m/Stable-Diffusion-WebUI-AUTOMATIC1111-.git">SD WebUI</a></td>
+      <td>🖼️ <a href="https://github.com/Stability-AI/stablediffusion">Stable Diffusion (Official)</a></td>
+    </tr>
+    <tr>
+      <td>🧠 <a href="https://github.com/P-r-e-m-i-u-m/AutoGPT.git">AutoGPT</a></td>
+      <td>📚 <a href="https://github.com/P-r-e-m-i-u-m/LlamaIndex-formerly-GPT-Index-.git">LlamaIndex</a></td>
+    </tr>
+    <tr>
+      <td>🧵 <a href="https://github.com/P-r-e-m-i-u-m/PEFT-Parameter-Efficient-Fine-Tuning-.git">PEFT</a></td>
+      <td>🚀 <a href="https://github.com/P-r-e-m-i-u-m/accelerate.git">Accelerate</a></td>
+    </tr>
+    <tr>
+      <td colspan="2">📦 <a href="https://github.com/P-r-e-m-i-u-m/Awesome-LLMOps.git">Awesome-LLMOps</a></td>
+    </tr>
+  </table>
 
 </div>
 
