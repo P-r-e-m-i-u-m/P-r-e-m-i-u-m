@@ -79,38 +79,24 @@
 
 <div align="center">
 
- <div align="center">
   <h2>🔥 Top Generative AI Open-Source Repositories</h2>
 
-  <!-- Matrix Green Status Badge -->
-  <img src="https://img.shields.io/badge/Status-Active-00ff00?style=for-the-badge&logo=matrix&logoColor=white" alt="Status Badge">
+  <p>
+    <a href="https://github.com/P-r-e-m-i-u-m/Hugging-Face-Transformers.git">Hugging Face Transformers</a><br>
+    <a href="https://github.com/P-r-e-m-i-u-m/langchain.git">LangChain</a><br>
+    <a href="https://github.com/P-r-e-m-i-u-m/LLaMA-Meta-AI-.git">LLaMA (Meta AI)</a><br>
+    <a href="https://github.com/P-r-e-m-i-u-m/llama.cpp.git">LLaMA.cpp</a><br>
+    <a href="https://github.com/P-r-e-m-i-u-m/Stable-Diffusion-WebUI-AUTOMATIC1111-.git">Stable Diffusion WebUI</a><br>
+    <a href="https://github.com/Stability-AI/stablediffusion">Stable Diffusion (Official)</a><br>
+    <a href="https://github.com/P-r-e-m-i-u-m/AutoGPT.git">AutoGPT</a><br>
+    <a href="https://github.com/P-r-e-m-i-u-m/LlamaIndex-formerly-GPT-Index-.git">LlamaIndex</a><br>
+    <a href="https://github.com/P-r-e-m-i-u-m/PEFT-Parameter-Efficient-Fine-Tuning-.git">PEFT</a><br>
+    <a href="https://github.com/P-r-e-m-i-u-m/accelerate.git">Accelerate</a><br>
+    <a href="https://github.com/P-r-e-m-i-u-m/Awesome-LLMOps.git">Awesome-LLMOps</a>
+  </p>
 
-  <table>
-    <tr>
-      <td>🤖 <a href="https://github.com/huggingface/transformers">Transformers</a></td>
-      <td>🔗 <a href="https://github.com/langchain-ai/langchain">LangChain</a></td>
-    </tr>
-    <tr>
-      <td>🦙 <a href="https://github.com/facebookresearch/llama">LLaMA</a></td>
-      <td>⚙️ <a href="https://github.com/ggerganov/llama.cpp">LLaMA.cpp</a></td>
-    </tr>
-    <tr>
-      <td>🎨 <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui">SD WebUI</a></td>
-      <td>🖼️ <a href="https://github.com/Stability-AI/stablediffusion">Stable Diffusion</a></td>
-    </tr>
-    <tr>
-      <td>🧠 <a href="https://github.com/Significant-Gravitas/AutoGPT">AutoGPT</a></td>
-      <td>📚 <a href="https://github.com/run-llama/llama_index">LlamaIndex</a></td>
-    </tr>
-    <tr>
-      <td>🧵 <a href="https://github.com/huggingface/peft">PEFT</a></td>
-      <td>🚀 <a href="https://github.com/huggingface/accelerate">Accelerate</a></td>
-    </tr>
-    <tr>
-      <td colspan="2">📦 <a href="https://github.com/tensorchord/Awesome-LLMOps">Awesome-LLMOps</a></td>
-    </tr>
-  </table>
 </div>
+
 <h3 align="center">✍️ Random Dev Quote</h3>
 
 
