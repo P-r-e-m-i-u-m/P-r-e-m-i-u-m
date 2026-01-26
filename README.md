@@ -88,11 +88,11 @@
     <a href="https://github.com/P-r-e-m-i-u-m/llama.cpp.git">LLaMA.cpp</a><br>
     <a href="https://github.com/P-r-e-m-i-u-m/Stable-Diffusion-WebUI-AUTOMATIC1111-.git">Stable Diffusion WebUI</a><br>
     <a href="https://github.com/Stability-AI/stablediffusion">Stable Diffusion (Official)</a><br>
-    <a href="https://github.com/Significant-Gravitas/AutoGPT">AutoGPT</a><br>
-    <a href="https://github.com/run-llama/llama_index">LlamaIndex</a><br>
-    <a href="https://github.com/huggingface/peft">PEFT</a><br>
-    <a href="https://github.com/huggingface/accelerate">Accelerate</a><br>
-    <a href="https://github.com/tensorchord/Awesome-LLMOps">Awesome-LLMOps</a>
+    <a href="https://github.com/P-r-e-m-i-u-m/AutoGPT.git">AutoGPT</a><br>
+    <a href="https://github.com/P-r-e-m-i-u-m/LlamaIndex-formerly-GPT-Index-.git">LlamaIndex</a><br>
+    <a href="https://github.com/P-r-e-m-i-u-m/PEFT-Parameter-Efficient-Fine-Tuning-.git">PEFT</a><br>
+    <a href="https://github.com/P-r-e-m-i-u-m/accelerate.git">Accelerate</a><br>
+    <a href="https://github.com/P-r-e-m-i-u-m/Awesome-LLMOps.git">Awesome-LLMOps</a>
   </p>
 
 </div>
