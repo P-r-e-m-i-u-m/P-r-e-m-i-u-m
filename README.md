@@ -86,7 +86,7 @@
     <a href="https://github.com/P-r-e-m-i-u-m/langchain.git">LangChain</a><br>
     <a href="https://github.com/P-r-e-m-i-u-m/LLaMA-Meta-AI-.git">LLaMA (Meta AI)</a><br>
     <a href="https://github.com/P-r-e-m-i-u-m/llama.cpp.git">LLaMA.cpp</a><br>
-    <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui">Stable Diffusion WebUI</a><br>
+    <a href="https://github.com/P-r-e-m-i-u-m/Stable-Diffusion-WebUI-AUTOMATIC1111-.git">Stable Diffusion WebUI</a><br>
     <a href="https://github.com/Stability-AI/stablediffusion">Stable Diffusion (Official)</a><br>
     <a href="https://github.com/Significant-Gravitas/AutoGPT">AutoGPT</a><br>
     <a href="https://github.com/run-llama/llama_index">LlamaIndex</a><br>
