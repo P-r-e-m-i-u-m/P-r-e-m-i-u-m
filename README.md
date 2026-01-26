@@ -78,35 +78,48 @@
 </p>
 
 <div align="center">
+  <br />
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=150&section=header&text=GEN-AI%20REPOS&fontSize=50&fontColor=00FF41&animation=twinkling&desc=Digital%20Inference%20Stack&descSize=20&descAlignY=70" width="100%" />
 
-  <h2>🔥 Top Generative AI Open-Source Repositories</h2>
-
-  <table>
+  <table width="100%" style="border-color: #00FF41;">
     <tr>
-      <td>🤖 <a href="https://github.com/P-r-e-m-i-u-m/Hugging-Face-Transformers.git">Transformers</a></td>
-      <td>🔗 <a href="https://github.com/P-r-e-m-i-u-m/langchain.git">LangChain</a></td>
+      <td width="50%" valign="top">
+        <h3><font color="#00FF41">📂 [system/frameworks]</font></h3>
+        <ul>
+          <li><a href="https://github.com/P-r-e-m-i-u-m/Hugging-Face-Transformers.git"><code>Transformers</code></a> <br/> <sub>Core neural architecture protocols.</sub></li>
+          <li><a href="https://github.com/P-r-e-m-i-u-m/langchain.git"><code>LangChain</code></a> <br/> <sub>Sequential LLM chain composition.</sub></li>
+          <li><a href="https://github.com/P-r-e-m-i-u-m/LlamaIndex-formerly-GPT-Index-.git"><code>LlamaIndex</code></a> <br/> <sub>Deep-data indexing & retrieval.</sub></li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <h3><font color="#00FF41">🧠 [system/models]</font></h3>
+        <ul>
+          <li><a href="https://github.com/P-r-e-m-i-u-m/LLaMA-Meta-AI-.git"><code>LLaMA (Meta AI)</code></a> <br/> <sub>High-efficiency neural foundation.</sub></li>
+          <li><a href="https://github.com/P-r-e-m-i-u-m/llama.cpp.git"><code>LLaMA.cpp</code></a> <br/> <sub>Low-level C++ inference engine.</sub></li>
+          <li><a href="https://github.com/Stability-AI/stablediffusion"><code>Stable Diffusion</code></a> <br/> <sub>Official latent vision synthesis.</sub></li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>🦙 <a href="https://github.com/P-r-e-m-i-u-m/LLaMA-Meta-AI-.git">LLaMA (Meta AI)</a></td>
-      <td>⚙️ <a href="https://github.com/P-r-e-m-i-u-m/llama.cpp.git">LLaMA.cpp</a></td>
-    </tr>
-    <tr>
-      <td>🎨 <a href="https://github.com/P-r-e-m-i-u-m/Stable-Diffusion-WebUI-AUTOMATIC1111-.git">SD WebUI</a></td>
-      <td>🖼️ <a href="https://github.com/Stability-AI/stablediffusion">Stable Diffusion (Official)</a></td>
-    </tr>
-    <tr>
-      <td>🧠 <a href="https://github.com/P-r-e-m-i-u-m/AutoGPT.git">AutoGPT</a></td>
-      <td>📚 <a href="https://github.com/P-r-e-m-i-u-m/LlamaIndex-formerly-GPT-Index-.git">LlamaIndex</a></td>
-    </tr>
-    <tr>
-      <td>🧵 <a href="https://github.com/P-r-e-m-i-u-m/PEFT-Parameter-Efficient-Fine-Tuning-.git">PEFT</a></td>
-      <td>🚀 <a href="https://github.com/P-r-e-m-i-u-m/accelerate.git">Accelerate</a></td>
-    </tr>
-    <tr>
-      <td colspan="2">📦 <a href="https://github.com/P-r-e-m-i-u-m/Awesome-LLMOps.git">Awesome-LLMOps</a></td>
+      <td width="50%" valign="top">
+        <h3><font color="#00FF41">🎨 [system/creative]</font></h3>
+        <ul>
+          <li><a href="https://github.com/P-r-e-m-i-u-m/Stable-Diffusion-WebUI-AUTOMATIC1111-.git"><code>SD WebUI</code></a> <br/> <sub>The visual gateway to diffusion.</sub></li>
+          <li><a href="https://github.com/P-r-e-m-i-u-m/PEFT-Parameter-Efficient-Fine-Tuning-.git"><code>PEFT</code></a> <br/> <sub>Surgical neural fine-tuning.</sub></li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <h3><font color="#00FF41">🚀 [system/ops]</font></h3>
+        <ul>
+          <li><a href="https://github.com/P-r-e-m-i-u-m/AutoGPT.git"><code>AutoGPT</code></a> <br/> <sub>Autonomous recursive AI agents.</sub></li>
+          <li><a href="https://github.com/P-r-e-m-i-u-m/accelerate.git"><code>Accelerate</code></a> <br/> <sub>Multi-GPU hardware optimization.</sub></li>
+          <li><a href="https://github.com/P-r-e-m-i-u-m/Awesome-LLMOps.git"><code>Awesome-LLMOps</code></a> <br/> <sub>Standardized production workflows.</sub></li>
+        </ul>
+      </td>
     </tr>
   </table>
 
+  <img src="https://capsule-render.vercel.app/render?type=venom&color=00FF41&height=40&section=footer" width="100%" />
 </div>
 
 <h3 align="center">✍️ Random Dev Quote</h3>
