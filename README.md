@@ -14,7 +14,7 @@
        width="400">
 </p>
 <div align="center">
-  <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" width="1500" height="245" />
+  <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" width="1500" height="230" />
 </div>
 
 <h2 align="center">💫 About Me</h2>
