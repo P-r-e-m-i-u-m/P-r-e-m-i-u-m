@@ -132,37 +132,37 @@
 <div align="center">
 
 # 🏅certification
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&section=header" width="100%"/>
 
 # 🎓 AI & Generative AI Courses
-- 🤖 ChatGPT Advanced Course  
-- 🌌 Introduction to Generative AI  
-- 🏗️ Introduction to Generative AI Studio  
-- 📊 GenAI Powered Data Analytics Job Simulation  
-- 🎓 Gemini Certification for University Students  
-- 👩‍🏫 Gemini Certified Educator  
+ 🤖 ChatGPT Advanced Course  
+ 🌌 Introduction to Generative AI  
+ 🏗️ Introduction to Generative AI Studio  
+ 📊 GenAI Powered Data Analytics Job Simulation  
+ 🎓 Gemini Certification for University Students  
+ 👩‍🏫 Gemini Certified Educator  
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&section=header" width="100%"/>
 
 # 📊 Data Analytics
-- 🧪 Data Analytics Job Simulation  
-- 🗄️ SQL Certificate  
-- 📑 Excel Certificate  
+ 🧪 Data Analytics Job Simulation  
+ 🗄️ SQL Certificate  
+ 📑 Excel Certificate  
 
----
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&section=header" width="100%"/>
 # 💻 Programming
-- 🐍 Python (Basic Programming)  
-- ⚡ JavaScript Certificate  
-- 🔷 TypeScript Certificate  
-- ☕ Java Certificate  
+
+ 🐍 Python (Basic Programming)  
+ ⚡ JavaScript Certificate  
+ 🔷 TypeScript Certificate  
+ ☕ Java Certificate  
 
 </div>
 
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
 <img src="https://raw.githubusercontent.com/P-r-e-m-i-u-m/P-r-e-m-i-u-m/output/snake.svg" alt="Snake animation" />
 
 ###
