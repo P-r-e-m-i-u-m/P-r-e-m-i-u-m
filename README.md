@@ -15,7 +15,8 @@
 </p>
 <div align="center">
   <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" width="1500" height="230" />
-</div><img 
+</div>
+<img 
   align="right" 
   src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" 
   width="100" 
