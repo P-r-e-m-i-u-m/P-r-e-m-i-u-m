@@ -15,36 +15,20 @@
 </p>
 <div align="center">
   <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" width="1500" height="230" />
-</div>
-
-<img 
+</div><img 
   align="right" 
   src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" 
-  width="200" 
+  width="100" 
   style="display: inline-block;" 
 />
-<h2 align="center">💫 About Me</h2>
+
+<h1 align="center">💫 About Me</h1>
 
 <p align="center">
-  🔭 I’m currently working on <br>
-  Building scalable RAG (Retrieval-Augmented Generation) pipelines and an AI-powered Resume Optimizer using GPT-4 & Streamlit. <br><br>
-
-  👯 I’m looking to collaborate on <br>
-  Open-source Generative AI projects, specifically those involving LangChain agents, Vector Databases (Pinecone/Chroma), or automation tools. <br><br>
-
-  🤝 I’m looking for help with <br>
-  Optimizing LLM inference latency for production environments and deploying containerized AI apps on AWS/Azure. <br><br>
-
-  🌱 I’m currently learning <br>
-  Advanced Multi-Agent Systems (AutoGen), fine-tuning Open Source LLMs (Llama 3, Mistral), and Cloud Architecture patterns. <br><br>
-
-  💬 Ask me about <br>
-  Prompt Engineering, building ETL pipelines in Python, automating boring tasks with code, and how to build AI apps without a degree! <br><br>
-
-  ⚡ Fun fact <br>
-  I treated "reading documentation" as my university degree. I built and deployed 4 AI applications before taking a single formal class!
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1250&color=38BDF8&center=true&vCenter=true&width=1000&lines=Data+Analyst+%7C+Generative+AI+Developer;Building+AI+Applications+Using+Python+LLMs+and+RAG;Experience+With+LangChain+Vector+Databases+and+ETL;Deploying+and+Optimizing+AI+Solutions+on+Cloud;Skilled+in+Prompt+Engineering+and+Automation;Open+To+Internship+and+Full-Time+Opportunities"
+  />
 </p>
-
 
 <h2 align="center">🌐 Socials:</h2>
 <p align="center">
