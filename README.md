@@ -163,8 +163,11 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/P-r-e-m-i-u-m/P-r-e-m-i-u-m/output/snake.svg" alt="Snake animation" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 ###
 
 <!-- Center-aligned GIF -->
