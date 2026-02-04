@@ -114,11 +114,6 @@
 
 <h2 align="center">🔝 Top Contributed Repos</h2>
 
-<!-- Anime Banner -->
-<p align="center">
-  <img src="https://i.giphy.com/OpYV9CBVZOb1S.webp" width="600" alt="Anime Banner">
-</p>
-
 <!-- Description -->
 <p align="center">
   🌟 Highlighting my most impactful open-source contributions <br>
@@ -126,12 +121,6 @@
   🎨 Blending code, creativity, and community
 </p>
 
-<!-- Visit Counter (Fixed) -->
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=P-r-e-m-i-u-m&icon=4&color=0" alt="Visitor Count">
-  </a>
-</p>
 
 <div align="center">
 
