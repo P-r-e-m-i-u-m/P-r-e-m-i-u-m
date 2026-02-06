@@ -1,3 +1,9 @@
+<td align="left" style="padding: 5px;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGpxeXVjNWd4ZzU0c2JtcDY0M3B4dTJueHo1ZG1odm1nN2J3bGpyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jqu3QZx6uVSoypEhKD/giphy.gif"
+       style="max-width: 90%; height: auto;"
+       width="90"
+       alt="Animated GIF" />
+</td>
 
 <p align="center">
   <img
