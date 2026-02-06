@@ -170,3 +170,50 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
+
+
+<div style="
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  max-width: 200px;
+  margin: auto;
+">
+
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcml0bHJ6bGtobmR4eG9tcjVtMWs4NW0yamU2OGM0Nm92bmtnczU1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/10a8AOSeP6Rqfu/giphy.gif"
+       style="
+         width: 20%;
+         border: 2px solid white;
+         box-sizing: border-box;
+         padding: 5px;
+         border-radius: 6px;
+       ">
+
+  <img src="https://i.pinimg.com/originals/f4/b3/aa/f4b3aaa7400915aa71fd58a2e3ed3bd7.gif"
+       style="
+         width: 20%;
+         border: 2px solid white;
+         box-sizing: border-box;
+         padding: 5px;
+         border-radius: 6px;
+       ">
+
+  <img src="https://i.pinimg.com/originals/30/79/27/3079277290da72f1c36fad89957c8a9d.gif"
+       style="
+         width: 20%;
+         border: 2px solid white;
+         box-sizing: border-box;
+         padding: 5px;
+         border-radius: 6px;
+       ">
+
+  <img src="https://i.pinimg.com/originals/e1/f4/cd/e1f4cd96efa9107f7c6f2db57fc83b90.gif"
+       style="
+         width: 20%;
+         border: 2px solid white;
+         box-sizing: border-box;
+         padding: 5px;
+         border-radius: 6px;
+       ">
+
+</div>
