@@ -179,7 +179,8 @@
        alt="Cartoon man at computer" />
 </td>
 
-<div style="background-color: #222; padding: 20px;"> <table align="center" style="border-collapse: collapse;">
+<div style="background-color: #222; padding: 20px;">
+  <table align="center" style="border-collapse: collapse;">
     <tr>
       <td align="center" style="padding:10px; border:2px solid white;">
         <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcml0bHJ6bGtobmR4eG9tcjVtMWs4NW0yamU2OGM0Nm92bmtnczU1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/10a8AOSeP6Rqfu/giphy.gif" width="180" alt="GIF 1">
@@ -191,6 +192,5 @@
         <img src="https://i.pinimg.com/originals/30/79/27/3079277290da72f1c36fad89957c8a9d.gif" width="180" alt="GIF 3">
       </td>
     </tr>
-    <tr>
   </table>
-</div>
+</div>>
