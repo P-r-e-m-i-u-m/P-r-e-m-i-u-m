@@ -172,10 +172,9 @@
 </picture>
 
 
-
 <td align="center" style="padding: 5px;">
-  <img src="https://i.pinimg.com/originals/6e/8d/0b/6e8d0bec0b9a00172d4885ed429808e2.gif"
+  <img src="https://i.pinimg.com/1200x/98/86/06/988606a6071467a08b58e4ab155be6d1.jpg"
        width="1000"
-       height="200"
-       alt="Animated GIF" />
+       height="180"
+       alt="Cartoon man at computer" />
 </td>
