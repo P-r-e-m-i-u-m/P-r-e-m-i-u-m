@@ -81,16 +81,13 @@
 
 ## 🔥 Top Generative AI Open-Source Repositories
 <p>
-  <a href="https://github.com/P-r-e-m-i-u-m/Hugging-Face-Transformers.git">Transformers</a> • 
-  <a href="https://github.com/P-r-e-m-i-u-m/langchain.git">LangChain</a> • 
-  <a href="https://github.com/P-r-e-m-i-u-m/LLaMA-Meta-AI-.git">LLaMA</a> • 
-  <a href="https://github.com/P-r-e-m-i-u-m/llama.cpp.git">LLaMA.cpp</a> • 
-  <a href="https://github.com/P-r-e-m-i-u-m/Stable-Diffusion-WebUI-AUTOMATIC1111-.git">Stable Diffusion</a> • 
-  <a href="https://github.com/P-r-e-m-i-u-m/AutoGPT.git">AutoGPT</a> • 
-  <a href="https://github.com/P-r-e-m-i-u-m/LlamaIndex-formerly-GPT-Index-.git">LlamaIndex</a> • 
-  <a href="https://github.com/P-r-e-m-i-u-m/PEFT-Parameter-Efficient-Fine-Tuning-.git">PEFT</a> • 
-  <a href="https://github.com/P-r-e-m-i-u-m/accelerate.git">Accelerate</a>
-</p>
+ <a href="https://github.com/P-r-e-m-i-u-m/Hugging-Face-Transformers.git"><img src="https://img.shields.io/badge/Transformers-HuggingFace-blue?style=flat-square&logo=huggingface"></a>
+<a href="https://github.com/P-r-e-m-i-u-m/langchain.git"><img src="https://img.shields.io/badge/LangChain-Framework-purple?style=flat-square&logo=langchain"></a>
+<a href="https://github.com/P-r-e-m-i-u-m/LLaMA-Meta-AI-.git"><img src="https://img.shields.io/badge/LLaMA-Meta-black?style=flat-square&logo=meta"></a>
+<a href="https://github.com/P-r-e-m-i-u-m/llama.cpp.git"><img src="https://img.shields.io/badge/llama.cpp-LLM-blue?style=flat-square"></a>
+<a href="https://github.com/P-r-e-m-i-u-m/Stable-Diffusion-WebUI-AUTOMATIC1111-.git"><img src="https://img.shields.io/badge/Stable-Diffusion-orange?style=flat-square"></a>
+<a href="https://github.com/P-r-e-m-i-u-m/AutoGPT-formerly-GPT-Index-.git"><img src="https://img.shields.io/badge/AutoGPT-AI-yellow?style=flat-square"></a>
+<a href="https://github.com/P-r-e-m-i-u-m/LlamaIndex-formerly-GPT-Index-.git"><img src="https://img.shields.io/badge/LlamaIndex-Data-brightgreen?style=flat-square"></a>
 
 🌐 **[Visit My Portfolio](https://p-r-e-m-i-u-m.github.io/AmanGenAI/)**
 
