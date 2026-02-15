@@ -50,7 +50,7 @@
   </a>
 </p>
 
-<h2 align="center">💻 Tech Stack — Generative AI Developer & Data Analyst</h2>
+<h2 align="center">💻 Tech Stack — Generative AI Developer & Data Analyst <img height="40" alt="Anshuman Jadiya" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" style="vertical-align: middle; max-height: 40px; display: inline-block;"></h2>
 
 <p align="center">
   <!-- Core Languages -->
