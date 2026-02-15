@@ -93,15 +93,23 @@
 
 ---
 
-### ✍️ Random Dev Quote
-*“Learning never compiles with errors”* • *“Code with purpose”* • *“Progress over perfection”*
-
----
-
-## 🔝 Top Contributed Repos
-**🌟 Impactful open-source contributions • 🚀 Generative AI pipelines • 🎨 Creativity & Community**
-
-</div>
+<table>
+  <tr>
+    <td width="60%">
+      <div align="left">
+        <h2>🚀 The GenAI Journey</h2>
+        <p>Currently, I am <strong>architecting</strong> powerful Generative AI systems, <strong>harnessing</strong> the true potential of Large Language Models through hands-on creation.</p>
+        <p>I am <strong>mastering</strong> production-ready RAG pipelines, <strong>designing</strong> multi-agent architectures, and <strong>perfecting</strong> advanced prompt engineering to build robust AI solutions.</p>
+        <p>My mission is to <strong>develop</strong> open-source applications that are not just intelligent, but beautifully engineered for real-world impact. ✨</p>
+      </div>
+    </td>
+    <td width="40%">
+      <div align="center">
+        <img src="https://camo.githubusercontent.com/68f5d2ab98f815e0fe0d6710f073e57c179dc90d29fbe3d0412c30ec99fad45c/68747470733a2f2f73686f727475726c2e61742f6f64667a43" width="100%" alt="GenAI Graphic" data-canonical-src="https://shorturl.at/odfzC">
+      </div>
+    </td>
+  </tr>
+</table>
 
 
 <div align="center">
