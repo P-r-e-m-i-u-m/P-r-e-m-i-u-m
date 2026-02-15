@@ -79,49 +79,32 @@
 
 <div align="center">
 
-  <h2>🔥 Top Generative AI Open-Source Repositories</h2>
+## 🔥 Top Generative AI Open-Source Repositories
+<p>
+  <a href="https://github.com/P-r-e-m-i-u-m/Hugging-Face-Transformers.git">Transformers</a> • 
+  <a href="https://github.com/P-r-e-m-i-u-m/langchain.git">LangChain</a> • 
+  <a href="https://github.com/P-r-e-m-i-u-m/LLaMA-Meta-AI-.git">LLaMA</a> • 
+  <a href="https://github.com/P-r-e-m-i-u-m/llama.cpp.git">LLaMA.cpp</a> • 
+  <a href="https://github.com/P-r-e-m-i-u-m/Stable-Diffusion-WebUI-AUTOMATIC1111-.git">Stable Diffusion</a> • 
+  <a href="https://github.com/P-r-e-m-i-u-m/AutoGPT.git">AutoGPT</a> • 
+  <a href="https://github.com/P-r-e-m-i-u-m/LlamaIndex-formerly-GPT-Index-.git">LlamaIndex</a> • 
+  <a href="https://github.com/P-r-e-m-i-u-m/PEFT-Parameter-Efficient-Fine-Tuning-.git">PEFT</a> • 
+  <a href="https://github.com/P-r-e-m-i-u-m/accelerate.git">Accelerate</a>
+</p>
 
-  <p>
-    <a href="https://github.com/P-r-e-m-i-u-m/Hugging-Face-Transformers.git">Hugging Face Transformers</a><br>
-    <a href="https://github.com/P-r-e-m-i-u-m/langchain.git">LangChain</a><br>
-    <a href="https://github.com/P-r-e-m-i-u-m/LLaMA-Meta-AI-.git">LLaMA (Meta AI)</a><br>
-    <a href="https://github.com/P-r-e-m-i-u-m/llama.cpp.git">LLaMA.cpp</a><br>
-    <a href="https://github.com/P-r-e-m-i-u-m/Stable-Diffusion-WebUI-AUTOMATIC1111-.git">Stable Diffusion WebUI</a><br>
-    <a href="https://github.com/Stability-AI/stablediffusion">Stable Diffusion (Official)</a><br>
-    <a href="https://github.com/P-r-e-m-i-u-m/AutoGPT.git">AutoGPT</a><br>
-    <a href="https://github.com/P-r-e-m-i-u-m/LlamaIndex-formerly-GPT-Index-.git">LlamaIndex</a><br>
-    <a href="https://github.com/P-r-e-m-i-u-m/PEFT-Parameter-Efficient-Fine-Tuning-.git">PEFT</a><br>
-    <a href="https://github.com/P-r-e-m-i-u-m/accelerate.git">Accelerate</a><br>
-    <a href="https://github.com/P-r-e-m-i-u-m/Awesome-LLMOps.git">Awesome-LLMOps</a>
-  </p>
+🌐 **[Visit My Portfolio](https://p-r-e-m-i-u-m.github.io/AmanGenAI/)**
 
-  <!-- Portfolio Link -->
-  <p>
-  🌐 <a href="https://p-r-e-m-i-u-m.github.io/AmanGenAI/" target="_blank"><b>Visit My Portfolio</b></a>
-  </p>
+---
+
+### ✍️ Random Dev Quote
+*“Learning never compiles with errors”* • *“Code with purpose”* • *“Progress over perfection”*
+
+---
+
+## 🔝 Top Contributed Repos
+**🌟 Impactful open-source contributions • 🚀 Generative AI pipelines • 🎨 Creativity & Community**
 
 </div>
-
-<h3 align="center">✍️ Random Dev Quote</h3>
-
-
-<p align="center">
-  💡 “Learning never compiles with errors.” <br>
-  🎯 “Code with purpose.” <br>
-  🚀 “Progress over perfection.” <br>
-  🔍 “Stay curious.” <br>
-  🔧 “Make it work, then make it better.”
-</p>
-
-
-<h2 align="center">🔝 Top Contributed Repos</h2>
-
-<!-- Description -->
-<p align="center">
-  🌟 Highlighting my most impactful open-source contributions <br>
-  🚀 From Generative AI pipelines to automation tools <br>
-  🎨 Blending code, creativity, and community
-</p>
 
 
 <div align="center">
