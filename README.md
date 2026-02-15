@@ -153,6 +153,11 @@
 </picture>
 
 
+ᴘʀᴏꜰɪʟᴇ ᴠɪᴇᴡꜱ
+
+<img src="https://camo.githubusercontent.com/47448c8c64db0a1bb22527cf20f414b52698e174993e32e8f85b4a7ed7105ba8/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f40616e7368756d616e6a6164697961313130323f6e616d653d616e7368756d616e6a616469796131313032267468656d653d72756c6533342670616464696e673d37266f66667365743d3026616c69676e3d746f70267363616c653d3126706978656c617465643d31266461726b6d6f64653d31" width="500" data-canonical-src="https://github.com/P-r-e-m-i-u-m?name=🄂ʏᴇᴅ 🄰ʙᴅᴜʟ 🄰ᴍᴀ🄝 ✧1102&amp;theme=rule34&amp;padding=7&amp;offset=0&amp;align=top&amp;scale=1&amp;pixelated=1&amp;darkmode=1" style="max-width: 100%;" rtrvr-ls="0~hs,3~hs,4~hs,5~hs,6~hs,8~hs,9~hs,31~hs,32~hs" rtrvr-ro="50">
+
+
 <td align="center" style="padding: 5px;">
   <img src="https://i.pinimg.com/1200x/98/86/06/988606a6071467a08b58e4ab155be6d1.jpg"
        width="1000"
@@ -160,21 +165,7 @@
        alt="Cartoon man at computer" />
 </td>
 
-<div style="background-color: #222; padding: 20px;">
-  <table align="center" style="border-collapse: collapse;">
-    <tr>
-      <td align="center" style="padding:10px; border:2px solid white;">
-        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcml0bHJ6bGtobmR4eG9tcjVtMWs4NW0yamU2OGM0Nm92bmtnczU1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/10a8AOSeP6Rqfu/giphy.gif" width="180" alt="GIF 1">
-      </td>
-      <td align="center" style="padding:10px; border:2px solid white;">
-        <img src="https://i.pinimg.com/originals/f4/b3/aa/f4b3aaa7400915aa71fd58a2e3ed3bd7.gif" width="180" alt="GIF 2">
-      </td>
-      <td align="center" style="padding:10px; border:2px solid white;">
-        <img src="https://i.pinimg.com/originals/30/79/27/3079277290da72f1c36fad89957c8a9d.gif" width="180" alt="GIF 3">
-      </td>
-    </tr>
-  </table>
-</div>
+
 
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://private-user-images.githubusercontent.com/225169841/489908606-79cb265a-94a9-4455-9ea8-56ea5fe249ed.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzExNDY5OTgsIm5iZiI6MTc3MTE0NjY5OCwicGF0aCI6Ii8yMjUxNjk4NDEvNDg5OTA4NjA2LTc5Y2IyNjVhLTk0YTktNDQ1NS05ZWE4LTU2ZWE1ZmUyNDllZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMjE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDIxNVQwOTExMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04YmIyYWRjZTc2NmFmNTA1YzdlYjAxZTI0ZDVjNWU5YWMzZTFhZjE0ODk1ZTA2OGI2ZjFmNjZmNGUwNTQ3NzVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.er3S6aFR4VtE8bAP3iXHM-TKfSv9jGEC3cIBvjar6ak">
 <img src="https://camo.githubusercontent.com/37883583d7fd5c3be410991d925b6e8b1a095b1244ebeed0ead2838f944e947d/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d4a616371756172642b31322673697a653d34302670617573653d3130303026636f6c6f723d4637354330332663656e7465723d74727565267643656e7465723d747275652677696474683d373030266865696768743d3630266c696e65733d446f6e27742b466f726765742b746f2b466f6c6c6f7721" alt="Follow 🄂ʏᴇᴅ 🄰ʙᴅᴜʟ 🄰ᴍᴀ🄝 ✧" data-canonical-src="(https://github.com/P-r-e-m-i-u-m)?font=Jacquard+12&amp;size=40&amp;pause=1000&amp;color=F75C03&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=60&amp;lines=Don't+Forget+to+Follow!" style="max-width: 100%;" rtrvr-ls="3~hs,4~hs,5~hs,6~hs,8~hs,9~hs,31~hs,32~hs" rtrvr-ro="50">
