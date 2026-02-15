@@ -126,40 +126,33 @@
 
 <div align="center">
 
-# 🏅certification
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
+# 🏅 Professional Certifications
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Divider" width="100%" />
 
-# 🎓 AI & Generative AI Courses
- 🤖 ChatGPT Advanced Course  
- 🌌 Introduction to Generative AI  
- 🏗️ Introduction to Generative AI Studio  
- 📊 GenAI Powered Data Analytics Job Simulation  
- 🎓 Gemini Certification for University Students  
- 👩‍🏫 Gemini Certified Educator  
+### 🚀 Artificial Intelligence & GenAI
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
+<a href="#"><img src="https://img.shields.io/badge/ChatGPT-Advanced-blue?style=flat-square&logo=openai"></a>
+<a href="#"><img src="https://img.shields.io/badge/Intro-Generative AI-purple?style=flat-square&logo=google"></a>
+<a href="#"><img src="https://img.shields.io/badge/GenAI-Studio-blueviolet?style=flat-square&logo=google"></a>
+<a href="#"><img src="https://img.shields.io/badge/Data Analytics-Job Simulation-orange?style=flat-square&logo=data-science"></a>
+<a href="#"><img src="https://img.shields.io/badge/Gemini-Certification-red?style=flat-square&logo=google"></a>
+<a href="#"><img src="https://img.shields.io/badge/Gemini-Educator-brightgreen?style=flat-square&logo=google"></a>
 
-# 📊 Data Analytics
- 🧪 Data Analytics Job Simulation  
- 🗄️ SQL Certificate  
- 📑 Excel Certificate  
+### 📊 Data Analytics
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
+<a href="#"><img src="https://img.shields.io/badge/Data Analytics-Job Simulation-orange?style=flat-square&logo=data-science"></a>
+<a href="#"><img src="https://img.shields.io/badge/SQL-Certificate-lightgrey?style=flat-square&logo=sqlite"></a>
+<a href="#"><img src="https://img.shields.io/badge/Excel-Certificate-darkgreen?style=flat-square&logo=microsoft-excel"></a>
 
+### 💻 Programming Languages
 
-# 💻 Programming
+<a href="#"><img src="https://img.shields.io/badge/Python-Basic-yellow?style=flat-square&logo=python"></a>
+<a href="#"><img src="https://img.shields.io/badge/JavaScript-Certificate-yellow?style=flat-square&logo=javascript"></a>
+<a href="#"><img src="https://img.shields.io/badge/TypeScript-Certificate-blue?style=flat-square&logo=typescript"></a>
+<a href="#"><img src="https://img.shields.io/badge/Java-Certificate-red?style=flat-square&logo=java"></a>
 
- 🐍 Python (Basic Programming)  
- ⚡ JavaScript Certificate  
- 🔷 TypeScript Certificate  
- ☕ Java Certificate  
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Divider" width="100%" />
 
 </div>
 
