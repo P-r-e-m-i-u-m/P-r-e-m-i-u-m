@@ -97,7 +97,7 @@
   <tr>
     <td width="60%">
       <div align="left">
-        <h2>🚀 The GenAI Journey</h2>
+        <h2> ᴇɴɢɪɴᴇᴇʀɪɴɢ ᴘʀᴏᴅᴜᴄᴛɪᴏɴ ʀᴇᴀᴅʏ ɢᴇɴᴇʀᴀᴛɪᴠᴇ ᴀɪ ꜱʏꜱᴛᴇᴍꜱ </h2>
         <p>Currently, I am <strong>architecting</strong> powerful Generative AI systems, <strong>harnessing</strong> the true potential of Large Language Models through hands-on creation.</p>
         <p>I am <strong>mastering</strong> production-ready RAG pipelines, <strong>designing</strong> multi-agent architectures, and <strong>perfecting</strong> advanced prompt engineering to build robust AI solutions.</p>
         <p>My mission is to <strong>develop</strong> open-source applications that are not just intelligent, but beautifully engineered for real-world impact. ✨</p>
