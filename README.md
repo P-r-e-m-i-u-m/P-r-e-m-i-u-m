@@ -156,8 +156,7 @@ Priority & Current Stack
 
 ᴘʀᴏꜰɪʟᴇ ᴠɪᴇᴡꜱ
 
-<img src="https://camo.githubusercontent.com/47448c8c64db0a1bb22527cf20f414b52698e174993e32e8f85b4a7ed7105ba8/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f40616e7368756d616e6a6164697961313130323f6e616d653d616e7368756d616e6a616469796131313032267468656d653d72756c6533342670616464696e673d37266f66667365743d3026616c69676e3d746f70267363616c653d3126706978656c617465643d31266461726b6d6f64653d31" width="500" data-canonical-src="https://github.com/P-r-e-m-i-u-m?name=🄂ʏᴇᴅ 🄰ʙᴅᴜʟ 🄰ᴍᴀ🄝 ✧1102&amp;theme=rule34&amp;padding=7&amp;offset=0&amp;align=top&amp;scale=1&amp;pixelated=1&amp;darkmode=1" style="max-width: 100%;" rtrvr-ls="0~hs,3~hs,4~hs,5~hs,6~hs,8~hs,9~hs,31~hs,32~hs" rtrvr-ro="50">
-
+<img src="https://count.getloli.com/@P-r-e-m-i-u-m?name=P-r-e-m-i-u-m&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1" width="500" style="max-width: 100%;" />
 
 <td align="center" style="padding: 5px;">
   <img src="https://i.pinimg.com/1200x/98/86/06/988606a6071467a08b58e4ab155be6d1.jpg"
