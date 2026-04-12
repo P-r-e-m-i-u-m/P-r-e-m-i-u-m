@@ -89,7 +89,7 @@
 <a href="https://github.com/P-r-e-m-i-u-m/AutoGPT-formerly-GPT-Index-.git"><img src="https://img.shields.io/badge/AutoGPT-AI-yellow?style=flat-square"></a>
 <a href="https://github.com/P-r-e-m-i-u-m/LlamaIndex-formerly-GPT-Index-.git"><img src="https://img.shields.io/badge/LlamaIndex-Data-brightgreen?style=flat-square"></a>
 
-🌐 **[Visit My Portfolio](https://p-r-e-m-i-u-m.github.io/AmanGenAI/)**
+🌐 **[Visit My Portfolio](https://p-r-e-m-i-u-m.github.io/portfolio/)**
 
 ---
 Priority & Current Stack
